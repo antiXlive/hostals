@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278663505205",
+    "project_id": "hostals-61f8c",
+    "storage_bucket": "hostals-61f8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278663505205:android:51c57ad9baedfc3037587c",
+        "android_client_info": {
+          "package_name": "com.hostals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278663505205-5q4pu0ip1vquiijf9kp4akmqb4n2hh2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9p3mho1tHHoHkxY8vgK3jaU142Ku0Zdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278663505205-5q4pu0ip1vquiijf9kp4akmqb4n2hh2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
