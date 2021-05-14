@@ -4,7 +4,7 @@
 		alt="hostals"
 		src="./readme_assets/hostals_logo.webp">
 </h1>
-<h1 align="center" style='letter-spacing:3px;margin:0;margin-bottom:2vh'>
+<h1 align="center">
 	hostals
 </h1>
 <p align="center">
@@ -23,42 +23,73 @@ This mobile app is built using react native framework to facilitate Hostel Room 
 
 ### Authentication
 
-
 <img
     width="170"
     alt="Capture 1"
     src="./readme_assets/auth-1.webp"
-    style='box-shadow:0px 0px 15px #00000040;border-radius:5px'
-/><img
+/> <img
     width="170"
     alt="Capture 2"
     src="./readme_assets/auth-2.webp"
-    style='box-shadow:0px 0px 15px #00000040;border-radius:5px'
-/><img
+/> <img
     width="170"
     alt="Capture 3"
     src="./readme_assets/auth-3.webp"
-    style='box-shadow:0px 0px 15px #00000040;border-radius:5px'
 />
+
 <img
     width="170"
     alt="Capture 4"
     src="./readme_assets/auth-4.webp"
-    style='box-shadow:0px 0px 15px #00000040;border-radius:5px'
-/><img
+/> <img
     width="170"
     alt="Capture 4"
     src="./readme_assets/auth-5.webp"
-    style='box-shadow:0px 0px 15px #00000040;border-radius:5px'
-/><img
+/> <img
     width="170"
     alt="Capture 4"
     src="./readme_assets/auth-6.webp"
-    style='box-shadow:0px 0px 15px #00000040;border-radius:5px'
 />
 
 
+### Admin
 
+<img
+    width="170"
+    alt="Capture 1"
+    src="./readme_assets/admin-1.webp"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="./readme_assets/admin-2.webp"
+/> <img
+    width="170"
+    alt="Capture 3"
+    src="./readme_assets/admin-3.webp"
+/> <img
+    width="170"
+    alt="Capture 3"
+    src="./readme_assets/admin-4.webp"
+/>
+
+
+<img
+    width="170"
+    alt="Capture 1"
+    src="./readme_assets/admin-5.webp"
+/> <img
+    width="170"
+    alt="Capture 2"
+    src="./readme_assets/admin-6.webp"
+/> <img
+    width="170"
+    alt="Capture 3"
+    src="./readme_assets/admin-7.webp"
+/> <img
+    width="170"
+    alt="Capture 3"
+    src="./readme_assets/admin-8.webp"
+/>
 
 <!-- 
 ## Installation and usage
