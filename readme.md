@@ -24,56 +24,38 @@ This mobile app is built using react native framework to facilitate Hostel Room 
 ### Authentication
 
 
-<div style='display:flex;flex-wrap:wrap;align-items:center;margin-top:5vh;'>
-    <div style='padding:0 30px;margin-bottom:20px'>
-        <img
-            width="170"
-            alt="Capture 1"
-            src="./readme_assets/auth-1.webp"
-            style='box-shadow:0px 0px 15px #00000040;border-radius:5px'
-        />
-    </div>
-    <div style='padding:0 30px;margin-bottom:20px'>
-        <img
-            width="170"
-            alt="Capture 2"
-            src="./readme_assets/auth-2.webp"
-            style='box-shadow:0px 0px 15px #00000040;border-radius:5px'
-        />
-    </div>
-    <div style='padding:0 30px;margin-bottom:20px'>
-        <img
-            width="170"
-            alt="Capture 3"
-            src="./readme_assets/auth-3.webp"
-            style='box-shadow:0px 0px 15px #00000040;border-radius:5px'
-        />
-    </div>
-    <div style='padding:0 30px;margin-bottom:20px'>
-        <img
-            width="170"
-            alt="Capture 4"
-            src="./readme_assets/auth-4.webp"
-            style='box-shadow:0px 0px 15px #00000040;border-radius:5px'
-        />
-    </div>
-    <div style='padding:0 30px;margin-bottom:20px'>
-        <img
-            width="170"
-            alt="Capture 4"
-            src="./readme_assets/auth-5.webp"
-            style='box-shadow:0px 0px 15px #00000040;border-radius:5px'
-        />
-    </div>
-    <div style='padding:0 30px;margin-bottom:20px'>
-        <img
-            width="170"
-            alt="Capture 4"
-            src="./readme_assets/auth-6.webp"
-            style='box-shadow:0px 0px 15px #00000040;border-radius:5px'
-        />
-    </div>
-</div>
+<img
+    width="170"
+    alt="Capture 1"
+    src="./readme_assets/auth-1.webp"
+    style='box-shadow:0px 0px 15px #00000040;border-radius:5px'
+/><img
+    width="170"
+    alt="Capture 2"
+    src="./readme_assets/auth-2.webp"
+    style='box-shadow:0px 0px 15px #00000040;border-radius:5px'
+/><img
+    width="170"
+    alt="Capture 3"
+    src="./readme_assets/auth-3.webp"
+    style='box-shadow:0px 0px 15px #00000040;border-radius:5px'
+/>
+<img
+    width="170"
+    alt="Capture 4"
+    src="./readme_assets/auth-4.webp"
+    style='box-shadow:0px 0px 15px #00000040;border-radius:5px'
+/><img
+    width="170"
+    alt="Capture 4"
+    src="./readme_assets/auth-5.webp"
+    style='box-shadow:0px 0px 15px #00000040;border-radius:5px'
+/><img
+    width="170"
+    alt="Capture 4"
+    src="./readme_assets/auth-6.webp"
+    style='box-shadow:0px 0px 15px #00000040;border-radius:5px'
+/>
 
 
 
