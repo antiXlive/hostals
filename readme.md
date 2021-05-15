@@ -1,9 +1,9 @@
-<h1 align="center">
+<p align="center">
 <img
 		width="180"
 		alt="hostals"
 		src="./readme_assets/hostals_logo.webp">
-</h1>
+</p>
 <h1 align="center">
 	hostals
 </h1>
