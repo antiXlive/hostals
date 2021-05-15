@@ -1,15 +1,16 @@
-<h1 align="center">
+<p align="center">
 <img
 		width="180"
 		alt="hostals"
 		src="./readme_assets/hostals_logo.webp">
-</h1>
+</p>
 <h1 align="center">
 	hostals
 </h1>
 <p align="center">
 	<img alt="Last Commit" src="https://img.shields.io/github/last-commit/antixlive/hostals?style=flat-square">
-	<img alt="Star" src="https://img.shields.io/badge/Like%20It%20%3F-STAR-blue.svg?style=flat-square">
+    	<img alt="PRs welcome!" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+	<img alt="PRs welcome!" src="https://img.shields.io/badge/Like it%3F-Star-brightgreen.svg" />
 </p>
 
 # Overview
